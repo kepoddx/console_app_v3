@@ -1,0 +1,262 @@
+[
+    {
+        "week": 1,
+        "startOfWeek": "2018-01-01",
+        "endOfWeek": "2018-01-07"
+    },
+    {
+        "week": 2,
+        "startOfWeek": "2018-01-08",
+        "endOfWeek": "2018-01-14"
+    },
+    {
+        "week": 3,
+        "startOfWeek": "2018-01-15",
+        "endOfWeek": "2018-01-21"
+    },
+    {
+        "week": 4,
+        "startOfWeek": "2018-01-22",
+        "endOfWeek": "2018-01-28"
+    },
+    {
+        "week": 5,
+        "startOfWeek": "2018-01-29",
+        "endOfWeek": "2018-02-04"
+    },
+    {
+        "week": 6,
+        "startOfWeek": "2018-02-05",
+        "endOfWeek": "2018-02-11"
+    },
+    {
+        "week": 7,
+        "startOfWeek": "2018-02-12",
+        "endOfWeek": "2018-02-18"
+    },
+    {
+        "week": 8,
+        "startOfWeek": "2018-02-19",
+        "endOfWeek": "2018-02-25"
+    },
+    {
+        "week": 9,
+        "startOfWeek": "2018-02-26",
+        "endOfWeek": "2018-03-04"
+    },
+    {
+        "week": 10,
+        "startOfWeek": "2018-03-05",
+        "endOfWeek": "2018-03-11"
+    },
+    {
+        "week": 11,
+        "startOfWeek": "2018-03-12",
+        "endOfWeek": "2018-03-18"
+    },
+    {
+        "week": 12,
+        "startOfWeek": "2018-03-19",
+        "endOfWeek": "2018-03-25"
+    },
+    {
+        "week": 13,
+        "startOfWeek": "2018-03-26",
+        "endOfWeek": "2018-04-01"
+    },
+    {
+        "week": 14,
+        "startOfWeek": "2018-04-02",
+        "endOfWeek": "2018-04-08"
+    },
+    {
+        "week": 15,
+        "startOfWeek": "2018-04-09",
+        "endOfWeek": "2018-04-15"
+    },
+    {
+        "week": 16,
+        "startOfWeek": "2018-04-16",
+        "endOfWeek": "2018-04-22"
+    },
+    {
+        "week": 17,
+        "startOfWeek": "2018-04-23",
+        "endOfWeek": "2018-04-29"
+    },
+    {
+        "week": 18,
+        "startOfWeek": "2018-04-30",
+        "endOfWeek": "2018-05-06"
+    },
+    {
+        "week": 19,
+        "startOfWeek": "2018-05-07",
+        "endOfWeek": "2018-05-13"
+    },
+    {
+        "week": 20,
+        "startOfWeek": "2018-05-14",
+        "endOfWeek": "2018-05-20"
+    },
+    {
+        "week": 21,
+        "startOfWeek": "2018-05-21",
+        "endOfWeek": "2018-05-27"
+    },
+    {
+        "week": 22,
+        "startOfWeek": "2018-05-28",
+        "endOfWeek": "2018-06-03"
+    },
+    {
+        "week": 23,
+        "startOfWeek": "2018-06-04",
+        "endOfWeek": "2018-06-10"
+    },
+    {
+        "week": 24,
+        "startOfWeek": "2018-06-11",
+        "endOfWeek": "2018-06-17"
+    },
+    {
+        "week": 25,
+        "startOfWeek": "2018-06-18",
+        "endOfWeek": "2018-06-24"
+    },
+    {
+        "week": 26,
+        "startOfWeek": "2018-06-25",
+        "endOfWeek": "2018-07-01"
+    },
+    {
+        "week": 27,
+        "startOfWeek": "2018-07-02",
+        "endOfWeek": "2018-07-08"
+    },
+    {
+        "week": 28,
+        "startOfWeek": "2018-07-09",
+        "endOfWeek": "2018-07-15"
+    },
+    {
+        "week": 29,
+        "startOfWeek": "2018-07-16",
+        "endOfWeek": "2018-07-22"
+    },
+    {
+        "week": 30,
+        "startOfWeek": "2018-07-23",
+        "endOfWeek": "2018-07-29"
+    },
+    {
+        "week": 31,
+        "startOfWeek": "2018-07-30",
+        "endOfWeek": "2018-08-05"
+    },
+    {
+        "week": 32,
+        "startOfWeek": "2018-08-06",
+        "endOfWeek": "2018-08-12"
+    },
+    {
+        "week": 33,
+        "startOfWeek": "2018-08-13",
+        "endOfWeek": "2018-08-19"
+    },
+    {
+        "week": 34,
+        "startOfWeek": "2018-08-20",
+        "endOfWeek": "2018-08-26"
+    },
+    {
+        "week": 35,
+        "startOfWeek": "2018-08-27",
+        "endOfWeek": "2018-09-02"
+    },
+    {
+        "week": 36,
+        "startOfWeek": "2018-09-03",
+        "endOfWeek": "2018-09-09"
+    },
+    {
+        "week": 37,
+        "startOfWeek": "2018-09-10",
+        "endOfWeek": "2018-09-16"
+    },
+    {
+        "week": 38,
+        "startOfWeek": "2018-09-17",
+        "endOfWeek": "2018-09-23"
+    },
+    {
+        "week": 39,
+        "startOfWeek": "2018-09-24",
+        "endOfWeek": "2018-09-30"
+    },
+    {
+        "week": 40,
+        "startOfWeek": "2018-10-01",
+        "endOfWeek": "2018-10-07"
+    },
+    {
+        "week": 41,
+        "startOfWeek": "2018-10-08",
+        "endOfWeek": "2018-10-14"
+    },
+    {
+        "week": 42,
+        "startOfWeek": "2018-10-15",
+        "endOfWeek": "2018-10-21"
+    },
+    {
+        "week": 43,
+        "startOfWeek": "2018-10-22",
+        "endOfWeek": "2018-10-28"
+    },
+    {
+        "week": 44,
+        "startOfWeek": "2018-10-29",
+        "endOfWeek": "2018-11-04"
+    },
+    {
+        "week": 45,
+        "startOfWeek": "2018-11-05",
+        "endOfWeek": "2018-11-11"
+    },
+    {
+        "week": 46,
+        "startOfWeek": "2018-11-12",
+        "endOfWeek": "2018-11-18"
+    },
+    {
+        "week": 47,
+        "startOfWeek": "2018-11-19",
+        "endOfWeek": "2018-11-25"
+    },
+    {
+        "week": 48,
+        "startOfWeek": "2018-11-26",
+        "endOfWeek": "2018-12-02"
+    },
+    {
+        "week": 49,
+        "startOfWeek": "2018-12-03",
+        "endOfWeek": "2018-12-09"
+    },
+    {
+        "week": 50,
+        "startOfWeek": "2018-12-10",
+        "endOfWeek": "2018-12-16"
+    },
+    {
+        "week": 51,
+        "startOfWeek": "2018-12-17",
+        "endOfWeek": "2018-12-23"
+    },
+    {
+        "week": 52,
+        "startOfWeek": "2018-12-24",
+        "endOfWeek": "2018-12-30"
+    }
+]

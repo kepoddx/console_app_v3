@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://graph.facebook.com/v3.2",
+    "reportUrl": "https://www.facebook.com/ads/ads_insights/export_report",
+    "accessToken": "EAAFlOVB8mIABALRtP4nLDqcBMd0sZA4XFQbdFhzDMlZA4KLHJZAHBaDCQ9QsfPHk2sZBvKBzZANII3yQucbm2vptZC3lqrmZCS85g601IH14pxaF0OAZBWGDlJVX2UE3zxlXnKbfev3880sBDnlI9lsqDPOXJRAlAjAHZCRl8GSvUiPMo1pycILta",
+    "breakdowns": {
+        "basic": "&level=ad&filtering=[{field:'ad.impressions',operator:'GREATER_THAN',value:0}]&fields=account_id,account_name,campaign_id,campaign_name,impressions,inline_link_clicks,clicks,cpc,ctr,cpm,cpp,spend,social_spend,created_time,reach,frequency,website_ctr,actions",
+        "ageGender": "&level=ad&filtering=[{field:'ad.impressions',operator:'GREATER_THAN',value:0}]&fields=account_id,account_name,campaign_id,campaign_name,impressions,inline_link_clicks,clicks,cpc,ctr,cpm,cpp,spend,social_spend,created_time,reach,frequency,website_ctr,actions&breakdowns=age,gender"
+    }
+}
